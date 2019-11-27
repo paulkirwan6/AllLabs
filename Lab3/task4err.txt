@@ -1,0 +1,7 @@
+ls: cannot access '/mnt/c/Users/Roshan': No such file or directory
+ls: cannot access 'George/Desktop/NUIG/Year': No such file or directory
+ls: cannot access '3/Sem': No such file or directory
+ls: cannot access '1/Embedded': No such file or directory
+ls: cannot access 'Systems': No such file or directory
+ls: cannot access 'Applications': No such file or directory
+ls: cannot access 'Programming/Assignments/Lab3': No such file or directory

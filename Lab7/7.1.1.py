@@ -1,0 +1,1 @@
+raspistill -o 7.1.1_img.jpg

@@ -1,0 +1,15 @@
+n04507155,cat.1.jpg
+n02123045,cat.2.jpg
+n02123597,cat.3.jpg
+n02124075,cat.4.jpg
+n02091467,cat.5.jpg
+n02107142,dog.1.jpg
+n02085782,dog.2.jpg
+n02106662,dog.3.jpg
+n02099712,dog.4.jpg
+n02088466,dog.5.jpg
+n02389026,horse.1.jpg
+n02389026,horse.2.jpg
+n02389026,horse.3.jpg
+n02437616,horse.4.jpg
+n02091831,horse.5.jpg

@@ -1,0 +1,22 @@
+total 4
+-rwxrwxrwx 1 roshan roshan  81 Sep 27 19:34 both.txt
+-rwxrwxrwx 1 roshan roshan   0 Sep 27 19:37 permissions.txt
+-rwxrwxrwx 1 roshan roshan 304 Sep 27 19:15 task1.sh
+-rwxrwxrwx 1 roshan roshan 282 Sep 28 00:26 task1.sh.save
+-rwxrwxrwx 1 roshan roshan 278 Sep 27 19:22 task2.sh
+-rwxrwxrwx 1 roshan roshan 133 Sep 27 19:25 task3.sh
+-rwxrwxrwx 1 roshan roshan 380 Sep 27 19:34 task4.sh
+-rwxrwxrwx 1 roshan roshan 441 Sep 27 19:34 task4err.txt
+-rwxrwxrwx 1 roshan roshan   0 Sep 29 13:56 task4txt.txt
+-rwxrwxrwx 1 roshan roshan 133 Sep 27 19:24 touch3.sh
+total 4
+-rwxrwxrwx 1 roshan roshan  81 Sep 27 19:34 both.txt
+-rwxrwxrwx 1 roshan roshan   0 Sep 27 19:37 permissions.txt
+-rwxrwxrwx 1 roshan roshan 304 Sep 27 19:15 task1.sh
+-rwxrwxrwx 1 roshan roshan 282 Sep 28 00:26 task1.sh.save
+-rwxrwxrwx 1 roshan roshan 278 Sep 27 19:22 task2.sh
+-rwxrwxrwx 1 roshan roshan 133 Sep 27 19:25 task3.sh
+-rwxrwxrwx 1 roshan roshan 380 Sep 27 19:34 task4.sh
+-rwxrwxrwx 1 roshan roshan 441 Sep 27 19:34 task4err.txt
+-rwxrwxrwx 1 roshan roshan 559 Sep 29 13:56 task4txt.txt
+-rwxrwxrwx 1 roshan roshan 133 Sep 27 19:24 touch3.sh

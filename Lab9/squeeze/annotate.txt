@@ -1,0 +1,39 @@
+class: [281] 'n02123045 tabby, tabby cat' with 52.84% confidence
+class: [281] 'n02123045 tabby, tabby cat' with 72.18% confidence
+class: [284] 'n02123597 Siamese cat, Siamese' with 90.41% confidence
+class: [285] 'n02124075 Egyptian cat' with 48.70% confidence
+class: [174] 'n02091467 Norwegian elkhound, elkhound' with 37.42% confidence
+
+class: [236] 'n02107142 Doberman, Doberman pinscher' with 26.29% confidence
+class: [152] 'n02085782 Japanese spaniel' with 58.86% confidence
+class: [235] 'n02106662 German shepherd, German shepherd dog, German police dog, alsatian' with 21.92% confidence
+class: [208] 'n02099712 Labrador retriever' with 41.78% confidence
+class: [163] 'n02088466 bloodhound, sleuthhound' with 26.36% confidence
+
+class: [339] 'n02389026 sorrel' with 26.97% confidence
+class: [339] 'n02389026 sorrel' with 99.89% confidence
+class: [339] 'n02389026 sorrel' with 81.33% confidence
+class: [355] 'n02437616 llama' with 61.27% confidence
+class: [176] 'n02091831 Saluki, gazelle hound' with 41.88% confidence
+
+n02123045, cat.1.jpg
+n02123045, cat.2.jpg
+n02123597, cat.3.jpg 
+n02124075, cat.4.jpg 
+n02091467, cat.5.jpg
+
+n02107142, dog.1.jpg
+n02085782, dog.2.jpg
+n02106662, dog.3.jpg
+n02099712, dog.4.jpg
+n02088466, dog.5.jpg
+
+n02389026, horse.1.jpg
+n02389026, horse.2.jpg
+n02389026, horse.3.jpg
+n02437616, horse.4.jpg
+n02091831, horse.5.jpg
+Converted network data(<type 'numpy.float32'>): 0.003553s
+Network instance created: 0.069694s
+
+class: [879] 'n04507155 umbrella' with 95.95% confidence

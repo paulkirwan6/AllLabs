@@ -1,0 +1,10 @@
+both.txt
+permissions.txt
+task1.sh
+task1.sh.save
+task2.sh
+task3.sh
+task4.sh
+task4err.txt
+task4txt.txt
+touch3.sh

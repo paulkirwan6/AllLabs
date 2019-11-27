@@ -1,0 +1,20 @@
+Converted network data(<class 'numpy.float32'>): 0.009162s
+Network instance created: 1.398985s
+
+class: [281] 'n02123045 tabby, tabby cat' with 53.87% confidence
+Converted network data(<class 'numpy.float32'>): 0.009001s
+Network instance created: 1.378461s
+
+class: [281] 'n02123045 tabby, tabby cat' with 72.51% confidence
+Converted network data(<class 'numpy.float32'>): 0.008770s
+Network instance created: 1.388644s
+
+class: [284] 'n02123597 Siamese cat, Siamese' with 89.86% confidence
+Converted network data(<class 'numpy.float32'>): 0.008976s
+Network instance created: 1.386401s
+
+class: [285] 'n02124075 Egyptian cat' with 51.84% confidence
+Converted network data(<class 'numpy.float32'>): 0.009044s
+Network instance created: 1.391656s
+
+class: [174] 'n02091467 Norwegian elkhound, elkhound' with 38.48% confidence

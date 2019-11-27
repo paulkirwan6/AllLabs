@@ -1,0 +1,8 @@
+x_train shape: (60000, 28, 28, 1)
+60000 train samples
+10000 test samples
+Train on 60000 samples, validate on 10000 samples
+Epoch 1/12
+
+  128/60000 [..............................] - ETA: 3:02:30 - loss: 2.2998 - acc: 0.1250
+  256/60000 [..............................] - ETA: 1:39:08 - loss: 2.2600 - acc: 0.2109

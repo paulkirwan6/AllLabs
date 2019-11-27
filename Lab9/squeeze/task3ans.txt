@@ -1,0 +1,76 @@
+Converted network data(<class 'numpy.float32'>): 0.008963s
+Network instance created: 1.370540s
+
+class: [281] 'n02123045 tabby, tabby cat' with 53.87% confidence
+false
+Converted network data(<class 'numpy.float32'>): 0.007140s
+Network instance created: 1.361150s
+
+class: [281] 'n02123045 tabby, tabby cat' with 72.51% confidence
+true
+Converted network data(<class 'numpy.float32'>): 0.007409s
+Network instance created: 1.357733s
+
+class: [284] 'n02123597 Siamese cat, Siamese' with 89.86% confidence
+true
+Converted network data(<class 'numpy.float32'>): 0.008557s
+Network instance created: 1.357882s
+
+class: [285] 'n02124075 Egyptian cat' with 51.84% confidence
+true
+Converted network data(<class 'numpy.float32'>): 0.006711s
+Network instance created: 1.363441s
+
+class: [174] 'n02091467 Norwegian elkhound, elkhound' with 38.48% confidence
+true
+Converted network data(<class 'numpy.float32'>): 0.008151s
+Network instance created: 1.407520s
+
+class: [236] 'n02107142 Doberman, Doberman pinscher' with 25.24% confidence
+true
+Converted network data(<class 'numpy.float32'>): 0.007200s
+Network instance created: 1.408703s
+
+class: [152] 'n02085782 Japanese spaniel' with 64.79% confidence
+true
+Converted network data(<class 'numpy.float32'>): 0.007026s
+Network instance created: 1.408981s
+
+class: [235] 'n02106662 German shepherd, German shepherd dog, German police dog, alsatian' with 22.20% confidence
+true
+Converted network data(<class 'numpy.float32'>): 0.006997s
+Network instance created: 1.749666s
+
+class: [208] 'n02099712 Labrador retriever' with 44.57% confidence
+true
+Converted network data(<class 'numpy.float32'>): 0.007226s
+Network instance created: 1.413641s
+
+class: [163] 'n02088466 bloodhound, sleuthhound' with 29.42% confidence
+true
+Converted network data(<class 'numpy.float32'>): 0.007159s
+Network instance created: 1.404454s
+
+class: [339] 'n02389026 sorrel' with 27.22% confidence
+true
+Converted network data(<class 'numpy.float32'>): 0.007064s
+Network instance created: 1.407933s
+
+class: [339] 'n02389026 sorrel' with 99.89% confidence
+true
+Converted network data(<class 'numpy.float32'>): 0.007126s
+Network instance created: 1.404649s
+
+class: [339] 'n02389026 sorrel' with 79.61% confidence
+true
+Converted network data(<class 'numpy.float32'>): 0.005568s
+Network instance created: 1.416119s
+
+class: [355] 'n02437616 llama' with 60.59% confidence
+true
+Converted network data(<class 'numpy.float32'>): 0.005415s
+Network instance created: 1.390590s
+
+class: [176] 'n02091831 Saluki, gazelle hound' with 41.85% confidence
+true
+1
